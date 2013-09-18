@@ -1,0 +1,8 @@
+{
+  "name": "mini6410",
+  "version": "0.0.1",
+  "description": "Friendlyarm mini6410 device operation tools",
+  "dependencies": {
+    "bindings": "~1.1.1"
+  }
+}
